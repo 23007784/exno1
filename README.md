@@ -1,5 +1,4 @@
-# Exno:1
-Data Cleaning Process
+# Exno:1 Data Cleaning Process
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
@@ -21,6 +20,15 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+```
+import pandas as pd
+df=pd.read_csv("/content/SAMPLEIDS.csv")
+df
+``` 
+ ![](<Screenshot 2025-03-05 162527.png>)  
+ ```
+ df.head()
+ ```   
+ ![alt text](<Screenshot 2025-03-05 162801.png>)
 # Result
-          <<include your Result here>>
+ Thus the given data and perform data cleaning and save the cleaned data to a file was done successfully.

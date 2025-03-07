@@ -20,15 +20,27 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-```
-import pandas as pd
-df=pd.read_csv("/content/SAMPLEIDS.csv")
-df
-``` 
- ![](<Screenshot 2025-03-05 162527.png>)  
- ```
- df.head()
- ```   
- ![alt text](<Screenshot 2025-03-05 162801.png>)
+![alt text](<Screenshot 2025-03-05 162206.png>)
+![alt text](<Screenshot 2025-03-05 162219.png>)
+![alt text](<Screenshot 2025-03-05 162233.png>)
+![alt text](<Screenshot 2025-03-05 162242.png>)
+![alt text](<Screenshot 2025-03-05 162251.png>)
+![alt text](<Screenshot 2025-03-05 162302.png>)
+![alt text](<Screenshot 2025-03-05 162313.png>)
+![alt text](<Screenshot 2025-03-05 162323.png>)
+![alt text](<Screenshot 2025-03-05 162337.png>)
+![alt text](<Screenshot 2025-03-05 162353.png>)
+![alt text](<Screenshot 2025-03-05 162404.png>)
+![alt text](<Screenshot 2025-03-05 162417.png>)
+![alt text](<Screenshot 2025-03-05 162429.png>)
+![alt text](<Screenshot 2025-03-05 162436.png>)
+![alt text](<Screenshot 2025-03-05 162441.png>)
+![alt text](<Screenshot 2025-03-05 162448.png>)
+![alt text](<Screenshot 2025-03-05 162456.png>)
+![alt text](<Screenshot 2025-03-05 162502.png>)
+![alt text](<Screenshot 2025-03-05 162510.png>)
+![alt text](<Screenshot 2025-03-05 162518.png>)
+![alt text](<Screenshot 2025-03-05 162528.png>)
+![alt text](<Screenshot 2025-03-05 162536.png>)
 # Result
  Thus the given data and perform data cleaning and save the cleaned data to a file was done successfully.
